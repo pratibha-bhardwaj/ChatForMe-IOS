@@ -8,6 +8,7 @@
 ##### -> IOS Running Device , Simulator also Works
 ##### -> Xcode 9.0 and Above
 ##### -> Swift 4
+# rohan
 
 #### Theory
 -> This App is a Public ChatRoom App where Users Sign in and could chat with people across Globe.
